@@ -1,0 +1,27 @@
+*{
+    font-family: 'Courier New', monospace;
+}
+
+body{
+    background-color: rgb(153, 130, 255);
+}
+
+#name{
+    display: flex;
+    padding-left: 50px;
+    margin-right: 500px;
+}
+
+#nav{
+    display: flex;
+    justify-content: center;
+    background-color: lightgray;
+}
+
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    background-color: lightgray;
+    font-size: 50px;
+}
